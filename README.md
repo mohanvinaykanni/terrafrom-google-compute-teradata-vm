@@ -1,0 +1,1 @@
+# terrafrom-google-compute-teradata-vm
